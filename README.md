@@ -36,6 +36,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![Anastasia UT](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true)
+![Jose UT](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
