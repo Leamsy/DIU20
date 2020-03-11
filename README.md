@@ -30,7 +30,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+
+>>> Tenemos asignadas plataformas de compartir alojamiento, como Badi que es una web para alquilar habitaciones. Otro ejemplo que se nos da es couchsurfing que sirve para prestar tu alojamiento a personas de esa comunidad de viajeros y asi poder hacer que se queden en tu casa o compartirla con los viajeros. Otra plataforma asignada es compartetupiso que es una plataforma para compartir los espacios vacíos de tu piso.
+
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
