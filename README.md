@@ -37,6 +37,7 @@ Tenemos asignadas plataformas de compartir alojamiento, como Badi, que es una we
 Nos quedamos con Badi debido a que es una web que consideramos mas sencilla de usar, ofrece más información que todas las otras en sus ofertas y visualmente es mucho mas clara para un usuario a la hora de acceder a cualquier espacio de la página.
 
 Competitive Analysis:
+
 ![Competitive_analysis](https://github.com/Leamsy/DIU20/blob/master/P1/img/competitive_analysis.png?raw=true)
 
 
