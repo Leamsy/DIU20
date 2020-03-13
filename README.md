@@ -41,20 +41,17 @@ Nos quedamos con Badi debido a que es una web que consideramos mas sencilla de u
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->[Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true)
+Hemos seleccionado 2 personas que creemos que pueden representar el amplio rango de usuarios de Badi.
+>[Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true): Es una chica joven y energética, con menos poder adquisitivo y que seguramente usará la web como inquilina.
 >
->[Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true)
-
-Hemos nfnsdof
+>[Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true): Es un hombre de edad avanzada con una mayor estabilidad económica, que seguramente utilizará la web a modo de arrendador.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->[Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true)
+>[Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true): Badi no da información sobre los otros inquilinos, y es común tener malas experiencias con compañeros de piso.
 >
->[Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true)
-
-Hemos gobsdiugboiusd
+>[Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true): Las personas más inexpertas con la tecnología tienden a saturarse cuando reciben demasiada información.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
