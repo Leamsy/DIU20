@@ -34,25 +34,25 @@ Tenemos asignadas plataformas de compartir alojamiento, como Badi, que es una we
 
 Nos quedamos con Badi debido a que es una web que consideramos mas sencilla de usar, ofrece más información que todas las otras en sus ofertas y visualmente es mucho mas clara para un usuario a la hora de acceder a cualquier espacio de la página.
 
-[Competitive_Analysis](https://github.com/Leamsy/DIU20/blob/master/P1/img/competitive_analysis.png?raw=true)
+>>[Competitive_Analysis](https://github.com/Leamsy/DIU20/blob/master/P1/img/competitive_analysis.png?raw=true)
 
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-[Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true)
-
-[Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true)
+>>[Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true)
+>>
+>>[Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true)
 
 Hemos nfnsdof
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-[Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true)
-
-[Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true)
+>>[Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true)
+>>
+>>[Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true)
 
 Hemos gobsdiugboiusd
 
