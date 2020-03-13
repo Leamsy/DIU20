@@ -30,40 +30,31 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
-
 Tenemos asignadas plataformas de compartir alojamiento, como Badi, que es una web para alquilar habitaciones. Otro ejemplo es Couchsurfing, que sirve para alquilar alojamientos a personas de su comunidad de viajeros, y asi permitir que se queden en tu casa o compartirla con otros viajeros. Otra plataforma asignada es Compartetupiso, que es una plataforma para compartir los espacios vacíos de pisos. Por último, Habitoom, centrada también en alquiler de pisos y habitaciones y una de las más famosas del sector.
 
 Nos quedamos con Badi debido a que es una web que consideramos mas sencilla de usar, ofrece más información que todas las otras en sus ofertas y visualmente es mucho mas clara para un usuario a la hora de acceder a cualquier espacio de la página.
 
-Competitive Analysis:
-
-![Competitive_analysis](https://github.com/Leamsy/DIU20/blob/master/P1/img/competitive_analysis.png?raw=true)
-
-
-
-
+[Competitive_Analysis](https://github.com/Leamsy/DIU20/blob/master/P1/img/competitive_analysis.png?raw=true)
 
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-![Anastasia UT](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true)
-![Jose UT](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true)
+[Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/anastasiaUT.png?raw=true)
 
-EXPLICAR PERSONAS
+[Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/joseUT.png?raw=true)
+
+Hemos nfnsdof
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+[Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-![Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true)
-![Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true)
+[Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true)
 
-EXPLICAR JOURNEY
+Hemos gobsdiugboiusd
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
