@@ -55,11 +55,10 @@ Hemos seleccionado 2 personas que creemos que pueden representar el amplio rango
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>ENLACE
+Valoración final: 76
+Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspectos que pulir, siendo su mayor fallo que una vez se sale de la página principal se pierde por completo toda la navegabilidad.
 
 
 ## Paso 2. UX Design  
