@@ -56,7 +56,7 @@ Hemos seleccionado 2 personas que creemos que pueden representar el amplio rango
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->ENLACE
+>AÑADIR ENLACE
 
 Valoración final: **76**
 
