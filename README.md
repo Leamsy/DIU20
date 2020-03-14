@@ -57,7 +57,9 @@ Hemos seleccionado 2 personas que creemos que pueden representar el amplio rango
 ----
 
 >ENLACE
-Valoración final: 76
+
+Valoración final: **76**
+
 Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspectos que pulir, siendo su mayor fallo que una vez se sale de la página principal se pierde por completo toda la navegabilidad.
 
 
