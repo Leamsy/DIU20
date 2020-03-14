@@ -28,8 +28,6 @@
 1.d Usability Review
 ----
 
->AÑADIR ENLACE
-
-[Documento usabilidad en PDF](https://github.com/Leamsy/DIU20/blob/master/P1/Usability-review-template-full.pdf)
+>[Documento usabilidad en PDF](https://github.com/Leamsy/DIU20/blob/master/P1/Usability-review-template-full.pdf)
 
 Valoración final: **76**
