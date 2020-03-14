@@ -1,12 +1,5 @@
 ## DIU - Practica1, entregables
 
-
-- Desk research: Análisis Competencia 
-- 2 Personas (Hecho)
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
 ## Paso 1. UX Desk Research & Analisis 
 
 >>Toolkit con personas y User Journey Maps:
@@ -31,3 +24,10 @@
 >![Journey_Anastasia](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_anastasia.PNG?raw=true)
 >
 >![Journey_Jose](https://github.com/Leamsy/DIU20/blob/master/P1/img/journey_jose.PNG?raw=true)
+
+1.d Usability Review
+----
+
+>AÑADIR ENLACE
+
+Valoración final: **76**
