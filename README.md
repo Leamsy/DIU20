@@ -70,12 +70,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+>[Feedback Capture Grid](https://github.com/Leamsy/DIU20/blob/master/P2/Feedback%20Capture%20Grid.png)
   
   
   
