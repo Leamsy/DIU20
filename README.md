@@ -82,7 +82,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->[User/Task Matrix](https://github.com/Leamsy/DIU20/blob/master/P2/User%20Task%20matrix.PNG)
+>[User/Task Matrix](https://github.com/Leamsy/DIU20/blob/master/P2/User%20Task%20Matrix.PNG)
 
 >>> Definir "User Map" y "Task Flow" ... 
 
