@@ -82,14 +82,15 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 -----
 
 >[User/Task Matrix](https://github.com/Leamsy/DIU20/blob/master/P2/User%20Task%20Matrix.PNG)
+>[Sitemap](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
 
-> Hemos creado una tabla para relacionar los distintos tipos de usuarios de la página con las actividades que pueden realizar, con el fin de determinar la frenciencia de uso total de cada una y, con ello, su importancia total.
+> Hemos creado una tabla para relacionar los distintos tipos de usuarios de la página con las actividades que pueden realizar, con el fin de determinar la frenciencia de uso total de cada una y, con ello, su importancia total. En cuanto al Sitemap, es nuestra propuesta sobre cómo debería ser el flujo de navegación de la página.
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
->[Labelling con iconos](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
+>[Labelling con iconos](https://github.com/Leamsy/DIU20/blob/master/P2/Labelling.pdf)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
