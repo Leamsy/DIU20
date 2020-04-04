@@ -71,6 +71,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 
 
 >[Feedback Capture Grid](https://github.com/Leamsy/DIU20/blob/master/P2/Feedback%20Capture%20Grid.png)
+
 >[Canvas](https://github.com/Leamsy/DIU20/blob/master/P2/canvas.png)
   
   
