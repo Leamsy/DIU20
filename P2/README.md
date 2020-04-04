@@ -13,6 +13,7 @@ Wireframe & User flow
 
 
 >![Feedback Capture Grid](https://github.com/Leamsy/DIU20/blob/master/P2/Feedback%20Capture%20Grid.png)
+>![Canvas](https://github.com/Leamsy/DIU20/blob/master/P2/canvas.png)
   
 
 2.b Tasks & Sitemap 
@@ -25,8 +26,6 @@ Wireframe & User flow
 
 2.c Labelling 
 ----
-
->![Canvas](https://github.com/Leamsy/DIU20/blob/master/P2/canvas.png)
 
 >![Sitemap](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
 
