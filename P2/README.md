@@ -20,18 +20,16 @@ Wireframe & User flow
 
 >![User/Task Matrix](https://github.com/Leamsy/DIU20/blob/master/P2/User%20Task%20Matrix.PNG)
 
->>> Definir "User Map" y "Task Flow" ... 
+
 
 
 2.c Labelling 
 ----
 
+>![Canvas](https://github.com/Leamsy/DIU20/blob/master/P2/canvas.png)
 
->>> Identificar términos para diálogo con usuario  
+>![Sitemap](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
 
 2.d Wireframes
