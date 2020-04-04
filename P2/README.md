@@ -28,7 +28,7 @@ Wireframe & User flow
 2.c Labelling 
 ----
 
->![Labelling con iconos](https://github.com/Leamsy/DIU20/blob/master/P2/Labelling.pdf)
+>[Labelling con iconos](https://github.com/Leamsy/DIU20/blob/master/P2/Labelling.pdf)
 
 
 
