@@ -96,7 +96,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>[Wireframes](https://github.com/Leamsy/DIU20/tree/master/P2/Wareframes%20BADADI)
 
 
 ## Paso 3. Make (Prototyping) 
