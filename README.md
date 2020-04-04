@@ -74,28 +74,20 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
   
   
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+> Planteamos una propuesta en la navegabilidad y la accesibilidad de su interfaz, intentando ser lo más inclusiva posible para que pueda ser utilizada por todo tipo de usuarios.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
 >[User/Task Matrix](https://github.com/Leamsy/DIU20/blob/master/P2/User%20Task%20Matrix.PNG)
 
->>> Definir "User Map" y "Task Flow" ... 
+> Hemos creado una tabla para relacionar los distintos tipos de usuarios de la página con las actividades que pueden realizar, con el fin de determinar la frenciencia de uso total de cada una y, con ello, su importancia total.
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>[Labelling con iconos](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
