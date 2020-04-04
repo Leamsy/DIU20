@@ -20,6 +20,7 @@ Wireframe & User flow
 -----
 
 >![User/Task Matrix](https://github.com/Leamsy/DIU20/blob/master/P2/User%20Task%20Matrix.PNG)
+>![Sitemap](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
 
 
 
@@ -27,7 +28,7 @@ Wireframe & User flow
 2.c Labelling 
 ----
 
->![Sitemap](https://github.com/Leamsy/DIU20/blob/master/P2/sitemap.png)
+>![Labelling con iconos](https://github.com/Leamsy/DIU20/blob/master/P2/Labelling.pdf)
 
 
 
