@@ -35,4 +35,4 @@ Wireframe & User flow
 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>[Wireframes](https://github.com/Leamsy/DIU20/tree/master/P2/Wareframes%20BADADI)
