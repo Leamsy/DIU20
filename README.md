@@ -111,8 +111,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>[Patrones de diseño y guidelines](https://github.com/Leamsy/DIU20/blob/master/P3/Patrones%20de_dise%C3%B1o%20y%20guidelines.pdf)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
