@@ -55,7 +55,7 @@ Dejamos un link al documento donde se explican todos los detalles de patrones de
 ![Método UX](https://github.com/Leamsy/DIU20/blob/master/img/mockup.png?raw=true)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>[Enlace al vídeo](https://youtu.be/bBLmTolfJ5o)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
