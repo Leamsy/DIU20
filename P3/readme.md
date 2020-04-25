@@ -3,7 +3,7 @@
 ## Paso 3. Mi equipo UX-Case Study 
 
 
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+![Método UX](https://github.com/Leamsy/DIU20/blob/master/img/moodboard.png?raw=true) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 La metodología nos parece correcta, ya que pudieron identificar problemas mucho antes de
 hacer el trabajo definitivo, corregir ideas que daban por hecho que iban a funcionar y que al
@@ -38,19 +38,19 @@ realmente le importa al usuario.
 
 [Documento](https://github.com/Leamsy/DIU20/blob/master/P3/analisisMuseMap.pdf) 
 
-![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](https://github.com/Leamsy/DIU20/blob/master/img/landing-page.png?raw=true)  3.b Logotipo
 ----
 
 ![Logo Badadi](https://github.com/Leamsy/DIU20/blob/master/P3/logo_badadi.png?raw=true)
 
 >[Patrones de diseño y guidelines](https://github.com/Leamsy/DIU20/blob/master/P3/Patrones%20de_dise%C3%B1o%20y%20guidelines.pdf)
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](https://github.com/Leamsy/DIU20/blob/master/img/guidelines.png?raw=true) 3.c Guidelines
 ----
 
 [Patrones de diseño y guidelines](https://github.com/Leamsy/DIU20/blob/master/P3/Patrones%20de_dise%C3%B1o%20y%20guidelines.pdf)
 
-![Método UX](img/mockup.png)  3.d Video
+![Método UX](https://github.com/Leamsy/DIU20/blob/master/img/mockup.png?raw=true)  3.d Video
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
