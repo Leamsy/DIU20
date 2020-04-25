@@ -120,7 +120,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>[Enlace al vídeo](https://youtu.be/bBLmTolfJ5o)
 
 
 ## Paso 4. Evaluación 
