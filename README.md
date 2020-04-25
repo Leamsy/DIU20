@@ -105,18 +105,17 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-
->>> Analizar lo aprendido de la experiencia MuseApp 
+[Documento](https://github.com/Leamsy/DIU20/blob/master/P3/analisisMuseMap.pdf) 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
->[Patrones de diseño y guidelines](https://github.com/Leamsy/DIU20/blob/master/P3/Patrones%20de_dise%C3%B1o%20y%20guidelines.pdf)
+[Logo Badadi](https://github.com/Leamsy/DIU20/blob/master/P3/logo_badadi.png?raw=true)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>[Patrones de diseño y guidelines](https://github.com/Leamsy/DIU20/blob/master/P3/Patrones%20de_dise%C3%B1o%20y%20guidelines.pdf)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
