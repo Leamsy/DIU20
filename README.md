@@ -110,7 +110,7 @@ Badi es una página web muy clara y fácil de usar pero que tiene ciertos aspect
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-![Logo Badadi](https://github.com/Leamsy/DIU20/blob/master/P3/logo_badadi.png?raw=true)
+[Logo Badadi](https://github.com/Leamsy/DIU20/blob/master/P3/logo_badadi.png?raw=true)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
