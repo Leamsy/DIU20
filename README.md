@@ -7,7 +7,7 @@ Proyecto:
 
 Descripción: 
 
-Logotipo: 
+Logotipo: ![Logo Badadi](https://github.com/Leamsy/DIU20/blob/master/P3/logo_badadi.png?raw=true)
 
 Miembros
  * :bust_in_silhouette:   [Ismael Moyano Romero](https://github.com/Leamsy)     :octocat:     

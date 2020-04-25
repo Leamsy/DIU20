@@ -58,4 +58,11 @@ Dejamos un link al documento donde se explican todos los detalles de patrones de
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+En esta práctica hemos aprendido los pasos iniciales que toman muchos proyectos como MuseMap antes de hacer una versión definitiva de un producto, los muchos pasos que hay que hacer para definir una idea, la cantidad de pruebas y cuestionarios que hay que hacer con usuarios reales para tener un feedback adecuado y 
+saber enfocar nuestro proyecto al público que realmente nos conviene.
+
+Gracias a esta práctica hemos visto como lo hecho anteriormente en las prácticas realmente se aplica a proyectos reales y se ve como es muy importante definir las bases de un proyecto antes de realizarlo. En muchas ocasiones pasamos a hacer proyectos con una idea básica sin llegar a definir bien las bases, prototipos y luego surgen problemas conforme se desarrolla el proyecto porque no teníamos una idea clara y pocas cosas definidas.
+
+También hemos podido detectar errores en las anteriores prácticas realizadas, como que definimos la idea de mejora Badi sin estudiar a usuarios reales de la aplicación, donde realmente podríamos obtener un feedback y más puntos de vista aparte del nuestro, esto nos hubiera hecho encontrar muchos más puntos débiles de los encontrados para mejorar la aplicación.
  
