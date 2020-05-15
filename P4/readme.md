@@ -31,9 +31,7 @@ Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesa
 	En su paso por la aplicación Anastasia tiene problemas con la interfaz, esta todo acumulado en muy pocas pantallas, puesto casi con calzador, quiere acceder a buscar un viaje barato y encontrar personas les pueda dar una opinión, o al menos verlas de forma rápida sin tener que chatear con los viajeros de las propuestas del buscador, pero no le es posible, debe contactar con soporte para ver como hacer esto, pero justamente el soporte no tiene chat y tiene que rellenar un formulario y esperar que les responda, en vez de poder chatear como puede con otros usuarios de la app, esto le resulta bastante frustrante a Anastasia.
 
 	Describe la experiencia 2 Yutaku (ESCUADRÓNMAPACHE)
-	
-	
-	
+	Anastasia busca piso, pero ha tenido problemas con otras compañeras de piso anteriormente, para ella es fundamental ver las personas con las que se va a alojar, ver sus perfiles y valoraciones de otros compañeros en otras experiencias de convivencia, para saber si son conflictivos o poco afines a su personalidad, en las habitaciones que encuentra que le gustan ve las descripciones de las personas apuntadas, pero no valoraciones de usuarios con los que han convivido esas personas anteriormente, por lo que le resultra frustrante en que de nuevo pueda tener problemas con esas personas al no tener referencias externas.
 
 	Describe la experiencia 3 Everevents (AMRM)
 	Anastasia crea un evento para hacer un mercadillo social en casa de una amiga, tras un par de horas de subirlo se ha dado cuenta que ha puesto algunos datos mal y ya se le habían apuntado varias personas, Anastasia intenta modificar el evento pero no hay posibilidad, no existe en la aplicación por lo que debe eliminar el evento y volverlo a crear con los nuevos datos, justo cuando ya empezaba a tener personas apuntadas.
