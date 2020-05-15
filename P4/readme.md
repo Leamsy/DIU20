@@ -39,3 +39,8 @@ Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesa
 
 
 ## Conclusiones
+El equipo DIU1_CEREZA ha obtenido una puntuación de 77 sobre 100. A pesar de tener carencias en algunos apartados, daban una buena visión general de cómo sería el proyecto final y de cuales eran las ideas sobre las cuáles querían basarse a la hosra de desarrollarlo.
+
+El equipo DIU2_EscuadrónMapache ha obtenido una puntuación de 81 sobre 100. Su proyecto estaba muy bien explayado y muy completo, atando todos los cabos de cómo querían que fuese el proyecto final.
+
+El equipo DIU3_AMRM ha obtenido una puntuación de 71 sobre 100. El proyecto tenía varias carencias que disminuían el conjunto final, pero aún así tenía bastantes buenas ideas para el proyercto y una interfaz final muy bien desarrollada.
