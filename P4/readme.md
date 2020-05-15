@@ -8,12 +8,12 @@ Descripcion:
 Hoja de valoración: [Valoración equipo CEREZA]()
 
 ## Caso 2
-Equipo ESCUADRONMAPACHE [Repositorio](https://github.com/Galactic-O/DIU20)
+Equipo EscuadrónMapache [Repositorio](https://github.com/Galactic-O/DIU20)
 
 
 Descripcion:
 
-Hoja de valoración: [Valoración equipo ESCUADRONMAPACHE]()
+Hoja de valoración: [Valoración equipo EscuadrónMapache]()
 
 
 ## Caso 3
