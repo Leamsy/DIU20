@@ -1,5 +1,9 @@
 # DIU - Practica 4, entregables
 
+CEREZA: https://github.com/DavidGmezHdez/DIU20
+ESCUADRONMAPACHE: https://github.com/Galactic-O/DIU20
+AMRM: https://github.com/suribel/DIU20
+
 ## Caso 1
 
 Descripcion y hoja de valoración.    
