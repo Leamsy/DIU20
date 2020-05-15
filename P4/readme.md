@@ -28,9 +28,10 @@ Hoja de valoración:  [Valoración equipo AMRM](https://github.com/Leamsy/DIU20/
 Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesada en usar aplicaciones para encontrar pisos, viajar de forma barata  o acudir a eventos creados por otras personas.
 
 	Describe la experiencia 1 Tripfinder (CEREZA)
-	En la experi
+	En su paso por la aplicación Anastasia tiene problemas con la interfaz, esta todo acumulado en muy pocas pantallas, puesto casi con calzador, quiere acceder a buscar un viaje barato y encontrar personas les pueda dar una opinión, o al menos verlas de forma rápida sin tener que chatear con los viajeros de las propuestas del buscador, pero no le es posible, debe contactar con soporte para ver como hacer esto, pero justamente el soporte no tiene chat y tiene que rellenar un formulario y esperar que les responda, en vez de poder chatear como puede con otros usuarios de la app, esto le resulta bastante frustrante a Anastasia.
 
 	Describe la experiencia 2 Yutaku (ESCUADRÓNMAPACHE)
+	
 
 	Describe la experiencia 3 Everevents (AMRM)
 
