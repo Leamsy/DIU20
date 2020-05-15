@@ -3,7 +3,7 @@
 ## Caso 1
 Equipo Cereza: [Repositorio](https://github.com/DavidGmezHdez/DIU20)
 
-###Descripcion:
+Descripcion:
 
 Hoja de valoración: [Valoración equipo CEREZA]()
 
@@ -11,7 +11,7 @@ Hoja de valoración: [Valoración equipo CEREZA]()
 Equipo ESCUADRONMAPACHE [Repositorio](https://github.com/Galactic-O/DIU20)
 
 
-###Descripcion:
+Descripcion:
 
 Hoja de valoración: [Valoración equipo ESCUADRONMAPACHE]()
 
@@ -20,7 +20,7 @@ Hoja de valoración: [Valoración equipo ESCUADRONMAPACHE]()
 
 Equipo AMRM: [Repositorio](https://github.com/suribel/DIU20)
 
-###Descripcion:
+Descripcion:
 
 Hoja de valoración:  [Valoración equipo AMRM]()
 
