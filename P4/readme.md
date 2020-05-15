@@ -32,8 +32,12 @@ Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesa
 
 	Describe la experiencia 2 Yutaku (ESCUADRÓNMAPACHE)
 	
+	
+	
 
 	Describe la experiencia 3 Everevents (AMRM)
+	Anastasia crea un evento para hacer un mercadillo social en casa de una amiga, tras un par de horas de subirlo se ha dado cuenta que ha puesto algunos datos mal y ya se le habían apuntado varias personas, Anastasia intenta modificar el evento pero no hay posibilidad, no existe en la aplicación por lo que debe eliminar el evento y volverlo a crear con los nuevos datos, justo cuando ya empezaba a tener personas apuntadas.
+	
 
 
 ## Conclusiones
