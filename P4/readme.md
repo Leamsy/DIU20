@@ -27,7 +27,8 @@ Hoja de valoración:  [Valoración equipo AMRM](https://github.com/Leamsy/DIU20/
 ## User Testing
 Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesada en usar aplicaciones para encontrar pisos, viajar de forma barata  o acudir a eventos creados por otras personas.
 
-	Describe la experiencia 1 Tripfinder (CEREZA)
+	Describe la experiencia 1 Tripfinder (CEREZA):
+	
 	En su paso por la aplicación Anastasia tiene problemas con la interfaz, 
 	esta todo acumulado en muy pocas pantallas, puesto casi con calzador,
 	quiere acceder a buscar un viaje barato y encontrar personas les pueda 
@@ -38,7 +39,8 @@ Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesa
 	les responda, en vez de poder chatear como puede con otros usuarios de 
 	la app, esto le resulta bastante frustrante a Anastasia.
 
-	Describe la experiencia 2 Yutaku (ESCUADRÓNMAPACHE)
+	Describe la experiencia 2 Yutaku (ESCUADRÓNMAPACHE):
+	
 	Anastasia busca piso, pero ha tenido problemas con otras compañeras 
 	de piso anteriormente, para ella es fundamental ver las personas con 
 	las que se va a alojar, ver sus perfiles y valoraciones de otros 
@@ -50,7 +52,8 @@ Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesa
 	frustrante en que de nuevo pueda tener problemas con esas 
 	personas al no tener referencias externas.
 
-	Describe la experiencia 3 Everevents (AMRM)
+	Describe la experiencia 3 Everevents (AMRM):
+	
 	Anastasia crea un evento para hacer un mercadillo social en casa 
 	de una amiga, tras un par de horas de subirlo se ha dado cuenta 
 	que ha puesto algunos datos mal y ya se le habían apuntado varias 
