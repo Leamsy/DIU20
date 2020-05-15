@@ -25,12 +25,14 @@ Descripcion: Es una propuesta de aplicación en el que puedes disfrutar de event
 Hoja de valoración:  [Valoración equipo AMRM](https://github.com/Leamsy/DIU20/blob/master/P4/DIU3_AMRM.xls)
 
 ## User Testing
+Hemos elegido a Anastasia, al ser una persona joven que puede estar mas interesada en usar aplicaciones para encontrar pisos, viajar de forma barata  o acudir a eventos creados por otras personas.
 
-	Describe la experiencia 1
+	Describe la experiencia 1 Tripfinder (CEREZA)
+	En la experi
 
-	Describe la experiencia 2
+	Describe la experiencia 2 Yutaku (ESCUADRÓNMAPACHE)
 
-	Describe la experiencia 3
+	Describe la experiencia 3 Everevents (AMRM)
 
 
 ## Conclusiones
